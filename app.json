@@ -1,0 +1,12 @@
+{
+  "name": "Mikrometr",
+  "displayName": "Mikrometr",
+  "expo": {
+    "name": "Mikrometr",
+    "slug": "Mikrometr",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
